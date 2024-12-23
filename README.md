@@ -24,15 +24,15 @@ pip install aiohttp
 ```
 
 ```bash
-git clone https://github.com/konchilsxxs/bussids.git
+git clone https://github.com/konchils404/bussid.git
 ```
 
 ```bash
-cd bussids
+cd bussid
 ```
 
 ```bash
-python bussids.py
+python run.py
 ```
 
 
