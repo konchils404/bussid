@@ -32,7 +32,7 @@ cd bussid
 ```
 
 ```bash
-python run.py
+python bussid.py
 ```
 
 
