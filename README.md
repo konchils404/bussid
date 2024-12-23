@@ -40,7 +40,7 @@ python bussids.py
 
 • [Termux](https://f-droid.org/repo/com.termux_1000.apk)  (Jika Blm punya)
 
-• [HTTP Canary Revolt](https://github.com/konchilsxxs/bussids/releases/download/release/HttpCanary.apk) (Http Canary)
+• [HTTP Canary Revolt](https://github.com/konchils404/bussid/releases/download/release/HttpCanary.apk) (Http Canary)
 
 • [BUSSID 3.6.1](https://m.apkpure.com/id/bus-simulator-indonesia/com.maleo.bussimulatorid/download/3.6.1) ( wajib! hanya untuk mengambil token! ) 
 > jika pake bussid versi terbaru, token / device id tidak muncul.
